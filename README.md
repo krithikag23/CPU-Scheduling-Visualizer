@@ -7,4 +7,8 @@ A simple OS project that visualizes CPU scheduling algorithms using a Gantt Char
 - SJF (Non-Preemptive)
 - Round Robin
 
+## 📌 Features
+- Interactive input
+- Gantt chart visualization
+- Waiting & Turnaround time calculation
 
