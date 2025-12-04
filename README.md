@@ -12,3 +12,7 @@ A simple OS project that visualizes CPU scheduling algorithms using a Gantt Char
 - Gantt chart visualization
 - Waiting & Turnaround time calculation
 
+## 🚀 Run
+```bash
+python3 main.py
+
