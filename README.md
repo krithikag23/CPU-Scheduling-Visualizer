@@ -1,2 +1,2 @@
-# CPU Scheduling Visualizer
+# ⚙️ CPU Scheduling Visualizer
 
